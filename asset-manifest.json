@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/omobayode-festus-osinubi/static/css/main.00276a99.css",
+    "main.js": "/omobayode-festus-osinubi/static/js/main.fa69e828.js",
+    "static/js/787.a5f54fd7.chunk.js": "/omobayode-festus-osinubi/static/js/787.a5f54fd7.chunk.js",
+    "index.html": "/omobayode-festus-osinubi/index.html",
+    "main.00276a99.css.map": "/omobayode-festus-osinubi/static/css/main.00276a99.css.map",
+    "main.fa69e828.js.map": "/omobayode-festus-osinubi/static/js/main.fa69e828.js.map",
+    "787.a5f54fd7.chunk.js.map": "/omobayode-festus-osinubi/static/js/787.a5f54fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00276a99.css",
+    "static/js/main.fa69e828.js"
+  ]
+}
